@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel YES, Berhasil WebHook!
+                    Laravel YES, Berhasil!
                 </div>
 
                 <div class="links">
